@@ -1,2 +1,2 @@
 # CPE 487
-Vschlenk cpe487
+Vschlenk CPE 487
