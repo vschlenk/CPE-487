@@ -11,7 +11,7 @@ We have taken this project and made it functional on a [Nexsys-A7 Board](https:/
 * **Serial Terminal Emulator**: For more information, see the [Installating and Using a Terminal Emulator Tutorial](https://reference.digilentinc.com/learn/programmable-logic/tutorials/tera-term).
 * **MicroUSB Cable:** To connect to serial terminal
 * **USB Keyboard:** To use WASD keys to play the game
-* **5V external power supply for board:** To power the board
+* **5V external power supply for board:** To power the board WILL NOT WORK WITHOUT THIS
 
 # Board Designs
 
