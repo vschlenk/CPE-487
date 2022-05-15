@@ -1,0 +1,37 @@
+# Vivado
+*.cache
+*.hw
+*.ioplanning
+*.ip_user_files
+*.runs
+*.sim
+.Xil/
+vivado*.*
+
+# IP Files
+*.dcp
+*.log
+*.mif
+*.v
+*.vh
+*.vhdl
+*.vho
+*.veo
+*.xdc
+*.xml
+
+# IP Directories
+doc
+hdl
+misc
+sim
+simulation
+synth
+
+# VS Code
+.vscode
+
+# Sigasi
+.settings
+.library_mapping.xml
+.project
